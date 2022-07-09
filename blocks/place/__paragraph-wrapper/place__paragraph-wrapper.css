@@ -1,0 +1,9 @@
+.place__paragraph-wrapper {
+  max-width: 484px;
+}
+
+@media screen and (max-width: 767px) {
+  .place__paragraph-wrapper {
+    padding: 0 16px 0 16px;
+  }
+}
