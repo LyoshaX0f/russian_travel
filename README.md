@@ -1,6 +1,6 @@
 # Russian-travel
 
-[**Лендинг**]() о путешествиях по России.
+[**Лендинг**](https://lyoshax0f.github.io/russian_travel/) о путешествиях по России.
 
 ---
 
